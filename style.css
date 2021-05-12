@@ -147,8 +147,8 @@ body{
   margin-left: -13px;
 }
 .controls .play-pause{
-  height: 54px;
-  width: 54px;
+  height: 40px;
+  width: 40px;
   display: flex;
   cursor: pointer;
   align-items: center;
