@@ -26,7 +26,7 @@ body{
   background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
 }
 .wrapper{
-  transform: scale(0.8)
+  transform: scale(0.2)
   width: 350px;
   padding: 25px 30px;
   overflow: hidden;
